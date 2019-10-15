@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define Tut_VERSION_MAJOR @Tut_VERSION_MAJOR@
+#define Tut_VERSION_MINOR @Tut_VERSION_MINOR@
